@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Trusting Weekend",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446042/Axie%20Infinity/axie-full-transparent_10_sbn1jx.png",
+        "description": "This body of work, Sandwyrm Errors, has particular significance to me because to much of my childhood took place white watching SMPTE bands. Most times i watched in silence, sometimes i hummed to the beep, or even did my homeword in front of it.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "Stripped Thought",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446043/Axie%20Infinity/axie-full-transparent_14_gh1phy.png",
+        "description": "A short, average built, dark skinned man with small ears, a broad nose, a cleft chin and soft, prominent, hazel eyes. He has long nails, seems intimidating, wears a natural-looking foundation to even his complexion and shocking pink blush, and has patchy stubble.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "The Red Souls",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446043/Axie%20Infinity/axie-full-transparent_11_rgheul.png",
+        "description": "A tall, fat, bronze skinned woman with very thin lips, small ears and dark, round, brown eyes. She has nice cologne, wears clean, fine clothes, and seems aggressive.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "Husband of Serpents",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446043/Axie%20Infinity/axie-full-transparent_15_tqywut.png",
+        "description": "A short, stout, caramel skinned woman with angular eyebrows, mysterious, rounded, brown eyes, a wide face and puffy cheeks. She has faint freckles.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "The Pirates's Dreamer",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446043/Axie%20Infinity/axie-full-transparent_12_leuaqg.png",
+        "description": "A slender, fair skinned woman with well-groomed eyebrows, a round face, puffy cheeks and expressive, round, light brown eyes. She has a small birthmark on her left foot, and seems conniving.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "The Guardian of the Nobody",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446043/Axie%20Infinity/axie-full-transparent_16_zxzmwn.png",
+        "description": "A bodybuilder-like, fair skinned woman with soft, wide set, brown eyes. She seems stoic, and wears new, hippie clothes. She is looking for something.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "Son in the Pleasure",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446044/Axie%20Infinity/axie-full-transparent_17_dt3ncn.png",
+        "description": "A tall, average built, orange skinned person with neat eyebrows and a large nose. They wear gold earrings in both ears, have patchy stubble, have straight, dark blonde hair, and wear subtle blush and complimentary eyeliner.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "Vacant Flight",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446045/Axie%20Infinity/axie-full-transparent_20_fcm1sj.png",
+        "description": "A 5 4 tall, olive skinned person with a wide face, large ears, a monobrow and hollow cheeks. They appear androgynous, and act feminine. They have an impressive beard, and have a distinctive mole on their torso.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "The Green Voyages",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446045/Axie%20Infinity/axie-full-transparent_18_dhnfzu.png",
+        "description": "A 5 2 tall, gray skinned man with no eyebrows, deep-set, little, hazel eyes and puffy lips. He wears perfectly pressed, casual clothes, has multiple tattoos on his upper back and lower back, seems aloof, and has a cheap perfume.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "Spirits of Sword",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446045/Axie%20Infinity/axie-full-transparent_19_humeyk.png",
+        "description": "A short, muscular, ruddy skinned woman with defined cheekbones, deep, little, hazel eyes and angular eyebrows. She has multiple tattoos on her left arm and right leg.",
+        "category": "Beast",
+        "price": 10
+    },
+    {
+        "title": "The Consort's Gift",
+        "image": "https://res.cloudinary.com/figdom/image/upload/v1652446045/Axie%20Infinity/axie-full-transparent_20_fcm1sj.png",
+        "description": " A tall, heavy, golden skinned woman with a narrow face. She has curly, brown hair. She is carrying a book.",
+        "category": "Beast",
+        "price": 10
+    }
+]

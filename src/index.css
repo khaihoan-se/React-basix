@@ -11,9 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.home {
+  padding: 10px 20px;
+}
 .products {
-  display: flex;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-row: 10px;
+  grid-column: 10px;
 }
 .card {
   width: 300px;
@@ -21,12 +26,12 @@ code {
   padding: 1rem;
   background-color: #4f7ef8;
   border-radius: .5rem;
-  margin-right: 20px;
+  margin-top: 10px;
 }
 .card-img {
   position: relative;
   width: 100%;
-  height: 400px;
+  height: 300px;
   background-color: #fff;
   border-radius: .5rem;
 }
@@ -62,4 +67,81 @@ button {
   border: none;
   border-radius: .5rem;
   cursor: pointer;
+}
+.detail {
+  width: 100%;
+  height: 100%;
+}
+.detail__banner {
+  width: 100%;
+  height: 360px;
+  background-color: #000;
+  position: relative;
+}
+.detail__bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-image: linear-gradient(
+    to left,
+    transparent 10%,
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 1)
+  );
+}
+.detail__bg--img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+}
+.detail__banner--textbox {
+  max-width: 500px;
+  position: absolute;
+  left: 30px;
+  top: 20%;
+  color: #fff;
+}
+.detail__banner--img {
+  padding: .5rem;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 8%;
+  right: 60px;
+  background-color: #fff;
+  border-radius: .5rem;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.detail__bg--image {
+  z-index: 300;
+}
+.panigation {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0px;
+}
+.panigation--button {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4f7ef8;
+}
+.panigation--button.active {
+  background-color: #000;
+  color: #fff;
 }
